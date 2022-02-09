@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 #Made by Julian Korgol
-#
+#https://github.com/JulianKorgol/Techni-Schools/blob/master/klasa1/2022/fizyka/wykres.py
 
 # Tutaj wprowadzamy dane
 firstDatax = 1
